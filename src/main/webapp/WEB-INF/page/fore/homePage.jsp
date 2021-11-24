@@ -85,9 +85,8 @@
     <a href="#"></a>
 </div>
 
-
     <script type="text/javascript" src="jquery-1.7.2.min.js"></script>
-    <body background=“www.jpg”>
+    <body >
         <script type="text/javascript">
             //添加timer标识
             var obj ={};
